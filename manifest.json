@@ -1,11 +1,11 @@
 {
-    "name": "Adventurista",
-    "short_name": "Adventurista",
+    "name": "testapp",
+    "short_name": "testapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A Navigation Application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
